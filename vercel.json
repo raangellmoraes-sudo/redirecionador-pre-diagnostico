@@ -1,0 +1,10 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://fluorescent-thistle-cf5.notion.site/470dcb24bfb84d6f9b835af137ce1091",
+      "permanent": false
+    }
+  ]
+}
